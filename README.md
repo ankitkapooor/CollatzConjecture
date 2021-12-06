@@ -1,4 +1,4 @@
-#Collatz Conjecture
+# Collatz Conjecture
 
 In 1937, the German mathematician **Lothar Collatz** stumped the world with a peculiar observation in algebra. It was a seemingly simple phenomenon but no amount of logic couldn't explain why it played out the way it did. The simple observation stated that **every number would eventually lead to 1 when repeatedly halved (if even) and tripled and incremented by 1 (if odd)**. To put it in mathematical notation:
 
